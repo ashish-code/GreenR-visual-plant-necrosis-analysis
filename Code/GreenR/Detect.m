@@ -1,3 +1,6 @@
+% Author: Ashish Gupta
+% Email: ashishagupta@gmail.com
+
 clc
 close all 
 clear all
