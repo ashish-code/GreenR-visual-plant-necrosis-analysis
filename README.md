@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/banner.svg" alt="GreenR — plant disease detection from leaf photos (K-means L*a*b* segmentation + GLCM + SVM)" width="100%">
+  <img src="docs/banner.svg" alt="GreenR — plant disease detection from leaf photos (K-means CIELAB segmentation + GLCM + SVM)" width="100%">
 </div>
 # GreenR — Visual Plant Necrosis Analysis
 
