@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="docs/banner.svg" alt="GreenR — plant disease detection from leaf photos (K-means L*a*b* segmentation + GLCM + SVM)" width="100%">
+</div>
 # GreenR — Visual Plant Necrosis Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
